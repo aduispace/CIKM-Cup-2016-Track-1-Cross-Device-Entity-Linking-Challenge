@@ -1,5 +1,6 @@
 # CIKM-Cup-2016-Track-1-Cross-Device-Entity-Linking-Challenge
 ## http://cikm2016.cs.iupui.edu/cikm-cup/
+### ![Alt Text](https://github.com/dleecsucla/CIKM-Cup-2016-Track-1-Cross-Device-Entity-Linking-Challenge/blob/master/Project%20Report%20Face.JPG)
 ### ![Alt Text](https://github.com/dleecsucla/CIKM-Cup-2016-Track-1-Cross-Device-Entity-Linking-Challenge/blob/master/Project%20Report.JPG)
 
 Online advertising is, perhaps, the most successful business model for the Internet known to date and the major element of the online ecosystem. Advertising companies help their clients market products and services to the right audiences of online users. In doing so, advertising companies collect a lot of user generated data, e.g. browsing logs and ad clicks, perform sophisticated user profiling, and compute the similarity of ads to user profiles. User identity plays the essential role in the success of an online advertising company/platform.
